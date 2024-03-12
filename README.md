@@ -11,12 +11,13 @@ We focused on exloring the demographics of drivers who accepted "fine dining" co
   We see from the age histogram below that <b>upwards of 70% of the recipients of all coupons were less than 40 years of age, </b> so the data possibly has an age bias built in.  Any age-related analysis will have to be viewed with caution!
   ![CouponRecipientsByAge](https://github.com/Vamana/Coupon-Dataset-Analysis/assets/7783577/bb6b7b00-f56c-41aa-80dc-89bf27aa5832)
 
-- <b>Distribution of fine dining coupons across marital status groups and incomes are similar,</b> so there is no initial data bias.
+- <b>Distribution of fine dining coupons across marital status groups and incomes are similar,</b> <br/>
+The plot below shows no initial data bias.
+
 ![FineDining-all](https://github.com/Vamana/Coupon-Dataset-Analysis/assets/7783577/08b8516f-708e-4dfe-992f-12d2cfaaa2cf)
 
 - <b>Lower-income singles and lower-income unmarried-with-partners tend to accept fine dining coupons, as do wealthier married people.</b> <br/>
-We hypothesize that singles/unmarried might use the fine dining coupons for a dinner date. This could be of interest to the marketing department.<br/>
-Wealthier people accepting fine-dining coupons is understandable since they have more disposable income.
+We hypothesize that singles/unmarried might use the fine dining coupons for a dinner date. This could be of interest to the marketing department. Wealthier people accepting fine-dining coupons is understandable since they have more disposable income.
 
 ![FineDiningYes-marital](https://github.com/Vamana/Coupon-Dataset-Analysis/assets/7783577/227f8e9b-32aa-4e73-8d84-d1db65dc0bef)
 
