@@ -15,7 +15,8 @@ We focused on exloring the demographics of drivers who accepted "fine dining" co
 ![FineDining-all](https://github.com/Vamana/Coupon-Dataset-Analysis/assets/7783577/08b8516f-708e-4dfe-992f-12d2cfaaa2cf)
 
 - <b>Lower-income singles and lower-income unmarried-with-partners tend to accept fine dining coupons, as do wealthier married people.</b> <br/>
-We hypothesize that singles/unmarried might use the fine dining coupons for a dinner date. This could be of interest to the marketing department.
+We hypothesize that singles/unmarried might use the fine dining coupons for a dinner date. This could be of interest to the marketing department.<br/>
+Wealthier people accepting fine-dining coupons is understandable since they have more disposable income.
 
 ![FineDiningYes-marital](https://github.com/Vamana/Coupon-Dataset-Analysis/assets/7783577/227f8e9b-32aa-4e73-8d84-d1db65dc0bef)
 
