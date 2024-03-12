@@ -9,6 +9,7 @@ Please see the Jupyter notebook [ASubbaraman-Coupon-Analysis.ipynb](https://gith
 We focused on exloring the demographics of drivers who accepted "fine dining" coupons, and also contrasted this with those who accepted fast food coupons. <br/>
 - #### <b>There is a possible age bias in the dataset.</b> <br/>
   We see from the age histogram below that <b>upwards of 70% of the recipients of all coupons were less than 40 years of age, </b> so the data possibly has an age bias built in.  Any age-related analysis will have to be viewed with caution!
+  
   ![CouponRecipientsByAge](https://github.com/Vamana/Coupon-Dataset-Analysis/assets/7783577/bb6b7b00-f56c-41aa-80dc-89bf27aa5832)
 
 - <b>Distribution of fine dining coupons across marital status groups and incomes are similar,</b> <br/>
